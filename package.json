@@ -1,0 +1,11 @@
+{
+  "name": "metamere-client",
+  "version": "0.9.1",
+  "description": "Standard connector for metamere",
+  "author": "Takuro Okada",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "axon": "^2.0.3"
+  }
+}
