@@ -30,7 +30,7 @@ npm install metamere-client
 
 ## Developers
 
-[Takuro Okada](mill6.plat6aux@gmail.com)
+[Takuro Okada](mailto:mill6.plat6aux@gmail.com)
 
 
 ---
